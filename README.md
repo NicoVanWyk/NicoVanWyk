@@ -92,6 +92,10 @@
 </div>
 <!--- trophy (start) -->
 
+<h2 style="display: inline-block">University Account Statistics:</h2>
+
+![University Statistics](https://raw.githubusercontent.com/NicoVanWyk/nicovanwyk.github.io/refs/heads/main/assets/images/UniStats.png)
+
 </p>        
 <!--- stats (end) -->
 
